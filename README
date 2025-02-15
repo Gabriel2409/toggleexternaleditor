@@ -1,0 +1,4 @@
+Plugin to toggle external editor settings 
+
+Simply clone in addons/toggleexternaleditor and a new command should appear in the 
+command palette
